@@ -72,5 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 This project also supports redis in the server part, install via -https://github.com/microsoftarchive/redis/releases. Redis supports fast fetching via in-memory cache to cancel database requests.
 
 Passwords --
-spacelender/admin123
+spacelender/admin123 -For connecting to database
 MongoDB account pasword -- APOCALYPSERTX5
