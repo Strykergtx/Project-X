@@ -70,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 This project also supports redis in the server part, install via -https://github.com/microsoftarchive/redis/releases. Redis supports fast fetching via in-memory cache to cancel database requests.
+
+Passwords --
+spacelender/admin123
+MongoDB account pasword -- APOCALYPSERTX5
